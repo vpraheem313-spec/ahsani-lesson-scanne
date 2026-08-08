@@ -1,0 +1,6 @@
+{
+  "name": "Ahsani Lesson Scanner – MVP 001",
+  "description": "Android-ready prototype for scanning lesson pages, local storage, text extraction, and generating exactly 30 MCQs (10 Easy, 10 Medium, 10 Hard) for Malayalam and Arabic Madrasa content.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

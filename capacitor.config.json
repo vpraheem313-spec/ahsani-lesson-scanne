@@ -1,0 +1,15 @@
+{
+  "appId": "com.ahsani.lessonscanner",
+  "appName": "Ahsani Lesson Scanner",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "cleartext": true
+  },
+  "plugins": {
+    "Camera": {
+      "permissions": ["camera", "photos"]
+    }
+  }
+}
